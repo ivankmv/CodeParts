@@ -4,7 +4,9 @@
     описание типа 2
 	
 	
-![Image of Yaktocat](img/img.jpg =100x20)
+![Image of Yaktocat](img/img.jpg)
+
+<img src="img/img.jpg" style="width: 50px; height: 50px;">
  
  
  <details> 
