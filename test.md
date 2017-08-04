@@ -6,7 +6,7 @@
 	
 ![Image of Yaktocat](img/img.jpg)
 
-<img src="img/img.jpg" style="width: 50px; height: 50px;">
+<img src="img/img.jpg" width="50" height="50">
  
  
  <details> 
