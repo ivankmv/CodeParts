@@ -4,7 +4,7 @@
     описание типа 2
 	
 	
-![Image of Yaktocat](img/img.jpg=100x20)
+![Image of Yaktocat](img/img.jpg =100x20)
  
  
  <details> 
